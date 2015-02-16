@@ -843,11 +843,13 @@ ul.social-buttons li a:active {
 
 ::-moz-selection {
     text-shadow: none;
+    color: white;
     background: #{{ site.color.primary }};
 }
 
 ::selection {
     text-shadow: none;
+    color: white;
     background: #{{ site.color.primary }};
 }
 
