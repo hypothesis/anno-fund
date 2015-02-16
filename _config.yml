@@ -17,7 +17,7 @@ color:
 # Team names, titles and social links
 people:
 - name: Phil Desenne
-  pic: 1
+#  pic: 1
   position: Annotation Lead, HarvardX / edX
   social:
     - title: twitter
@@ -28,7 +28,7 @@ people:
       url: #
 
 - name: Randall Leeds
-  pic: 2
+#  pic: 2
   position: Lead Developer, Hypothes.is
   social:
     - title: twitter
@@ -39,7 +39,7 @@ people:
       url: #
 
 - name: Rob Sanderson
-  pic: 3
+#  pic: 3
   position: Co-Chair, Open Annotation Community Group, Stanford University
   social:
     - title: twitter
@@ -50,7 +50,7 @@ people:
       url: #
 
 - name: Doug Schepers
-  pic: 2
+#  pic: 2
   position: Developer Relations, W3C
   social:
     - title: twitter
@@ -61,8 +61,8 @@ people:
       url: #
 
 - name: Nick Stenning
-  pic: 3
-  position: Lead Developer, Annotator, Open Knowledge Foundation
+#  pic: 3
+  position: Lead Developer, Annotator, Hypothes.is
   social:
     - title: twitter
       url: #
