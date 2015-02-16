@@ -1,15 +1,23 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: Cross-browser Support
+subtitle: for Annotator
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+date: 2014-06-06
+# img: dreams.png
+# thumbnail: dreams-thumbnail.png
+# alt: image-alt
+project:
+  date: April 6, 2014
+  announcement: https://hypothes.is/blog/fund-cross-browser-support/
+client:
+  name: Open Gov Foundation
+  url: http://opengovfoundation.org/
+categories:
+  - name: Annotator
+    url: http://annotatorjs.org/
+  - name: Hypothes.is
+    url: http://hypothes.is/
+description: The first award of $7,500 went to the Open Gov Foundation for work by Chris Birk and Bill Hunt for cross-browser support in Annotator.
 
 ---
