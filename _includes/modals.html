@@ -26,8 +26,9 @@
                                     </strong>
                                 </li>
                                 <li>Related Project(s):
-                                  {% for category in post.categories %}
-                                  <strong><a href="{{ category.url }}">{{ category.name }}</a></strong>
+                                  {% for proj in post.related %}
+                                  <strong><a href="{{ proj.url }}">{{ proj.name }}</a>
+                                    {% if post.related.last != proj %}, {% endif %}</strong>
                                   {% endfor %}
                                 </li>
                             </ul>

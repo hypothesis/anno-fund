@@ -13,7 +13,7 @@ project:
 client:
   name: Open Gov Foundation
   url: http://opengovfoundation.org/
-categories:
+related:
   - name: Annotator
     url: http://annotatorjs.org/
   - name: Hypothes.is
