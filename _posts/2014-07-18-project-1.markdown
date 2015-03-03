@@ -10,6 +10,8 @@ date: 2014-06-06
 project:
   date: April 6, 2014
   announcement: https://hypothes.is/blog/fund-cross-browser-support/
+  completed: October 6, 2014
+  complete: http://opengovfoundation.org/adding-the-power-of-open-online-annotation-to-older-web-browsers/
 client:
   name: Open Gov Foundation
   url: http://opengovfoundation.org/
