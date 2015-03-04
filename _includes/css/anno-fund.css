@@ -1,3 +1,26 @@
+header {
+    background-color: #333;
+    background-image: none;
+}
+
+section {
+    padding: 5em 0;
+}
+
+section#contact {
+  background-image: none;
+}
+
+.timeline > li .empty.timeline-image {
+  width: 2em;
+  height: 2em;
+  margin-left: -1em;
+}
+
+.timeline > li {
+  margin-bottom: 0;
+}
+
 @media(min-width:768px) {
     header .intro-text {
         padding-top: 100px;
