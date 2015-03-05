@@ -9,6 +9,22 @@ header {
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#606060', endColorstr='#333333',GradientType=0 ); /* IE6-9 */
 }
 
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300,300italic);
+
+html, body, h1, h2, h3, h4, h5, h6 {
+  font-family: "lato", sans-serif;
+}
+
+p {
+  font-weight: 300;
+  font-size: 1.2em;
+}
+
+.list li {
+  font-weight: 300;
+  font-size: 1.2em;
+}
+
 section {
     padding: 5em 0;
 }
