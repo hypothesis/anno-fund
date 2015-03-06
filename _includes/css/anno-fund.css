@@ -1,3 +1,23 @@
+html, body, h1, h2, h3, h4, h5, h6 {
+    font-family: "Lato", sans-serif;
+}
+.btn-primary,
+.navbar-default .navbar-brand,
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus,
+.navbar-default .navbar-brand:active,
+.navbar-default .navbar-brand.active,
+.navbar-default .nav li a,
+header .intro-text .intro-lead-in,
+header .intro-text .intro-heading,
+section h3.section-subheading,
+#portfolio .portfolio-item .portfolio-caption p,
+footer span.copyright,
+footer ul.quicklinks,
+.portfolio-modal .modal-content p.item-intro {
+    font-family: "Lato", sans-serif;
+}
+
 header {
     background: rgb(96,96,96); /* Old browsers */
     background: -moz-linear-gradient(top,  rgba(96,96,96,1) 0%, rgba(51,51,51,1) 100%); /* FF3.6+ */
@@ -15,6 +35,11 @@ section {
 
 section#contact {
   background-image: none;
+}
+
+p, .list li {
+    font-weight: 300;
+    font-size: 1.2em;
 }
 
 .timeline > li .empty.timeline-image {
