@@ -18,6 +18,15 @@ footer ul.quicklinks,
     font-family: "Lato", sans-serif;
 }
 
+.navbar-default .navbar-brand,
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus,
+.navbar-default .navbar-brand:active,
+.navbar-default .navbar-brand.active {
+    color: white;
+}
+
+
 header {
     background: rgb(96,96,96); /* Old browsers */
     background: -moz-linear-gradient(top,  rgba(96,96,96,1) 0%, rgba(51,51,51,1) 100%); /* FF3.6+ */
