@@ -28,6 +28,7 @@ footer ul.quicklinks,
 
 
 header {
+    padding-top: 4em;
     background: rgb(96,96,96); /* Old browsers */
     background: -moz-linear-gradient(top,  rgba(96,96,96,1) 0%, rgba(51,51,51,1) 100%); /* FF3.6+ */
     background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(96,96,96,1)), color-stop(100%,rgba(51,51,51,1))); /* Chrome,Safari4+ */
@@ -36,6 +37,13 @@ header {
     background: -ms-linear-gradient(top,  rgba(96,96,96,1) 0%,rgba(51,51,51,1) 100%); /* IE10+ */
     background: linear-gradient(to bottom,  rgba(96,96,96,1) 0%,rgba(51,51,51,1) 100%); /* W3C */
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#606060', endColorstr='#333333',GradientType=0 ); /* IE6-9 */
+}
+
+header .intro-text .intro-heading {
+    margin-bottom: 0;
+}
+header .intro-text .text-muted {
+    padding-top: 1em;
 }
 
 section {
