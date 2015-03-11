@@ -1,9 +1,9 @@
 #url: https://y7kim.github.io
-baseurl: /anno-fund/
+#baseurl: /anno-fund/
 
 # Site settings
 title: Open Annotation Fund
-email: info@anno.fund
+email: fund@hypothes.is
 description: "Funding grants for Open Annotation: the web-based, implementation
   of an interoperable, standards-based annotation paradigm that promises to
   become a new layer over human knowledge"
