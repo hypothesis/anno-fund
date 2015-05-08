@@ -1,0 +1,24 @@
+---
+title: On-Demand Web Archiving of Annotated Pages
+subtitle: Standalone API
+layout: default
+modal-id: 2
+date: 2015-05-08
+# img: dreams.png
+# thumbnail: dreams-thumbnail.png
+# alt: image-alt
+project:
+  date: May 8, 2015
+  announcement: https://hypothes.is/blog/fund-on-demand-web-archiving-of-annotated-pages/
+  completed: TBD
+  complete: #
+client:
+  name: Ilya Kreymer
+  url: http://webrecorder.io/
+related:
+  - name: Hypothes.is
+    url: http://hypothes.is/
+description: The second award of $3,000 went to Ilya Kreymer for building an
+  open API for on-demand web archiving of annotated pages.
+
+---
