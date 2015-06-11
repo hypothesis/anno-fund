@@ -1,0 +1,25 @@
+---
+title: Scaling Up Content Analysis
+subtitle: API & AnnotatorJS Add-on
+layout: default
+modal-id: 3
+date: 2015-06-11
+# img: dreams.png
+# thumbnail: dreams-thumbnail.png
+# alt: image-alt
+project:
+  date: June 11, 2015
+  announcement: https://hypothes.is/blog/fund-scaling-up-content-analysis/
+  completed: TBD
+  complete: #
+client:
+  name: Text Thresher
+  url: http://bids.berkeley.edu/research/text-thresher
+related:
+  - name: Annotator
+    url: http://annotatorjs.org/
+description: The third award of $9,000 went to Nick Adams and the Text Thresher
+  team for adding focused, task oriented content analysis features to
+  Annotator.
+
+---
