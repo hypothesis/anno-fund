@@ -10,8 +10,8 @@ date: 2015-05-08
 project:
   date: May 8, 2015
   announcement: https://hypothes.is/blog/fund-on-demand-web-archiving-of-annotated-pages/
-  completed: TBD
-  complete: #
+  completed: July 10, 2015
+  complete: https://hypothes.is/blog/fund-on-demand…ing-completion/
 client:
   name: Ilya Kreymer
   url: http://webrecorder.io/
