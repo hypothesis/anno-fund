@@ -1,3 +1,7 @@
+The [Open Annotation Fund](http://anno.fund/) is run by [The Hypothesis Project](http://hypothes.is/).
+
+The [anno.fund](http://anno.fund/) web site is build using the Agency Jekyll theme (more info below) and hosted on GitHub Pages.
+
 Agency Jekyll theme
 ====================
 
