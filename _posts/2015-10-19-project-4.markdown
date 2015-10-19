@@ -1,0 +1,25 @@
+---
+title: Annotations in Ebooks
+subtitle: EPUB format Annotation
+layout: default
+modal-id: 4
+date: 2015-10-19
+# img: dreams.png
+# thumbnail: dreams-thumbnail.png
+# alt: image-alt
+project:
+  date: October 19, 2015
+  announcement: https://hypothes.is/blog/fund-annotations-in-ebooks/
+  completed: TBD
+  complete: #
+client:
+  name: FuturePress
+  url: http://futurepress.org/
+related:
+  - name: Hypothes.is
+    url: https://hypothes.is/
+description: |
+  The fourth award of $7,300 went to Fred Chasen and the FuturePress
+  project for inmproving epub.js integration and EPUB format selector storage.
+
+---
